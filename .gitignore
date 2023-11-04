@@ -2,3 +2,4 @@
 /venv
 /htmls
 /.env
+monogdb_demo/.env
