@@ -1,2 +1,5 @@
 openai
 langchain
+unstructured
+requests
+yaml
