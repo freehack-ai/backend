@@ -5,3 +5,4 @@ requests
 yaml
 bs4
 json
+replicate
