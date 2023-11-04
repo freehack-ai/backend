@@ -3,3 +3,4 @@
 /htmls
 /.env
 monogdb_demo/.env
+/mongodb-demo/.env
