@@ -1,4 +1,3 @@
-from gradio_client import Client
 import yaml
 
 import openai
@@ -33,22 +32,3 @@ class OpenAIClient:
         except Exception as e:
             print(f"An error occurred: {e}")
             return None
-
-
-with open("config/config.yaml", "r") as f:
-    config = yaml.safe_load(f)
-
-img_client = Client("https://xinyu1205-recognize-anything.hf.space/")
-oac = OpenAIClient(
-    api_key=config["openai"],
-    model="gpt-3.5-turbo",
-)
-
-
-class MyOAC:
-    def __init__(self):
-        pass
-
-    def __call__(self, tags):
-        prompt = f"You are a scary pumpkin during Halloween. There is a person in front of you that you are trying to scare. I took a picture of this person and I am going to describe it to you using tags. Delimited by  {tags}. Write a creepy sentence about this person using details about the person and their surroundings."
-        return oac.chat_completion(prompt)

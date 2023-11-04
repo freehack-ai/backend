@@ -1,0 +1,213 @@
+[
+    {
+        "title": "The Sailing Bookkeeper",
+        "blurb": "Design a logo representing sailing and financial bookkeeping. A simplified yacht and something depicting the bookkeeping field. I live on my yacht and run my financial bookkeeping business from it.",
+        "price": "A$150",
+        "deadline": "11 Nov 2023 18:06:41 UTC",
+        "requirements": {
+            "design_elements": [
+                "simplified yacht",
+                "financial bookkeeping depiction"
+            ],
+            "color_preference": "blue and white",
+            "additional_information": "Photos of yacht available for inspiration. Other colours will be considered."
+        }
+    },
+    {
+        "title": "Dr R V Fitness",
+        "blurb": "Logo for online gym coach who has a medical background. The logo should attract new customers, be suitable for use on merchandise, and appeal to professionals like doctors and lawyers. The design should include simple typography with the text 'Dr. R V Fitness'.",
+        "price": "£190",
+        "deadline": "11 Nov 2023 14:45:33 UTC",
+        "requirements": {
+            "logo_text": "Dr R V Fitness",
+            "target_market": [
+                "Fitness",
+                "Professionals"
+            ],
+            "industry": "Fitness",
+            "logo_style": "Wordmark Logo",
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "color_preference": "Designer to choose",
+            "additional_information": "Logo to be used on merchandise, appealing to high-level professionals."
+        }
+    },
+    {
+        "title": "New Family Medicine clinic needs logo design",
+        "blurb": "Primary care physician transitioning to a Direct Primary Care (DPC) model, seeking a hometown, subtly elegant logo with softer colors for the new practice. DPC offers affordable, personalized healthcare through a monthly subscription, with benefits like extended appointments, same/next day appointments, and easy access to the doctor.",
+        "price": "US$150",
+        "deadline": "11 Nov 2023 14:16:41 UTC",
+        "requirements": {
+            "logo_text": "Harmony Health DPC",
+            "design_aesthetic": {
+                "look": "hometown, subtly elegant",
+                "color_scheme": "softer colors"
+            },
+            "business_model": "Direct Primary Care (DPC)",
+            "additional_information": {
+                "appointment_length": "30-60 min",
+                "appointment_availability": "same or next day",
+                "communication_methods": [
+                    "Telehealth",
+                    "email",
+                    "texting"
+                ],
+                "relationship": "personalized, comprehensive healthcare"
+            }
+        }
+    },
+    {
+        "title": "Diesel Repair, Performance Transmission and CNC Shop new logo",
+        "blurb": "Seeking a new business logo to reflect the shift in services to light duty diesel truck repair, performance transmission building, and CNC plasma cutting. Desired elements include a specific model of GMC truck, an Allison 1000 transmission, and a plasma cutter torch, while adhering to a style similar to the current shop logo.",
+        "price": "US$300",
+        "deadline": "10 Nov 2023 17:33:50 UTC",
+        "requirements": {
+            "logo_text": "Jr's Garage. Diesel Repair, Performance Transmissions & CNC Plasma Cutting",
+            "target_market": [
+                "Light duty diesel truck owners",
+                "Performance enthusiasts"
+            ],
+            "industry": "Diesel pick up truck repair, performance transmission building, cnc plasma cutting/fabrication/welding",
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "must_have": [
+                "2015/2016 GMC Denali 3500HD crew cab 8' bed dually",
+                "Allison 1000 transmission",
+                "Plasma cutter torch"
+            ],
+            "should_not_have": "Nothing with the color red",
+            "printing_requirements": "Easy to print on shirts and decals with minimal colors",
+            "file_format": "JPG",
+            "reference_file": "Shop Logo",
+            "additional_information": "Current shop logo liked and should be used as a reference for style"
+        }
+    },
+    {
+        "title": "4 product logos with text and graphic",
+        "blurb": "SmartMLS, a multiple listing service, needs branding for four of its products: SmartMLS Sign, SmartMLS Offers, SmartMLS Stats, and SmartMLS Tax. Each product serves a unique function within the real estate listing and data management realm. The logos should maintain consistency with SmartMLS's existing branding, be unique, eye-catching, and provided in specified file formats.",
+        "price": "US$240",
+        "deadline": "06 Nov 2023 14:25:07 UTC",
+        "requirements": {
+            "product_names": [
+                "SmartMLS Sign",
+                "SmartMLS Offers",
+                "SmartMLS Stats",
+                "SmartMLS Tax"
+            ],
+            "description": {
+                "SmartMLS Sign": "Digital document tool for remote signing.",
+                "SmartMLS Offers": "Program for managing home purchase offers.",
+                "SmartMLS Stats": "Statistical program providing analytics with graphs, charts, and insights.",
+                "SmartMLS Tax": "Program for searching municipal property tax data and property information."
+            },
+            "design_consistency": "Consistency in font type and design with SmartMLS's existing branding.",
+            "logo_requirement": "SmartMLS portion has to be the existing logo.",
+            "graphic_requirement": "Eye-catching, identifiable, and unique graphic; icon could be used separately or alongside text graphic.",
+            "file_formats": [
+                "jpeg",
+                "png",
+                "psd",
+                "ai",
+                "eps"
+            ],
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "additional_information": {
+                "website": "www.smartmls.com",
+                "reference_file": "ColorLandscape_300dpi"
+            }
+        }
+    },
+    {
+        "title": "My Restoration Coach",
+        "blurb": "A retired General Contractor with 35 years of experience in property restoration services for commercial property owners aims to educate and guide other contractors to build, market, and service their own portfolios by providing 'cost effective building solutions'. The target market includes contractors, with a focus on storm restoration services for commercial properties.",
+        "price": "US$150",
+        "deadline": "10 Nov 2023 07:29:59 UTC",
+        "requirements": {
+            "logo_text": "My Restoration Coach",
+            "target_market": [
+                "Contractors"
+            ],
+            "industry": "Storm Restoration Services For Commercial Properties",
+            "logo_styles": [
+                "Pictorial/Combination Logo",
+                "Character Logo"
+            ],
+            "font_styles": [
+                "Serif",
+                "Sans Serif"
+            ],
+            "color_palette": [
+                "0094D4",
+                "00A9DD",
+                "6FCCEA",
+                "C7EBF8",
+                "E9F6FB",
+                "59FF00",
+                "82FF00",
+                "B8FF75",
+                "E3FFCB",
+                "F4FFEA",
+                "FFF300",
+                "FFF600",
+                "FEFA6F",
+                "FFFEC7",
+                "FFFEE8",
+                "F0912C",
+                "F2A743",
+                "F7CA91",
+                "FBE8D2",
+                "FDF5EE"
+            ],
+            "design_characteristics": {
+                "elegant_bold": "Elegant to Bold",
+                "playful_serious": "Playful to Serious",
+                "traditional_modern": "Traditional to Modern",
+                "personable_professional": "Personable to Professional",
+                "feminine_masculine": "Feminine to Masculine",
+                "colorful_conservative": "Colorful to Conservative",
+                "economical_upmarket": "Economical to Upmarket"
+            },
+            "must_have": [
+                "A clean logo with clean font"
+            ],
+            "nice_to_have": [
+                "A picture of a distinguished teacher inside of a round logo with the lettering around the circle"
+            ],
+            "should_not_have": [
+                "Blurry lines or font"
+            ],
+            "file_formats": [
+                "JPEG"
+            ],
+            "reference_file": "75837299-F87E-45FA-A2F1-5F801EA9ED49_1_102_o",
+            "additional_information": {
+                "website": "www.crnpros.com",
+                "dba_entity": "Commercial Restoration Network",
+                "update": "The name of my teaching platform is called: My Restoration Coach",
+                "update_date": "Saturday, 04 November 2023"
+            }
+        }
+    }
+]
