@@ -15,6 +15,22 @@
     "full_text": "title is 'The Sailing Bookkeeper'; blurb is 'Design a logo representing sailing and financial bookkeeping. A simplified yacht and something depicting the bookkeeping field. I live on my yacht and run my financial bookkeeping business from it.'; price is 'A$150'; deadline is '11 Nov 2023 18:06:41 UTC'; requirements design_elements is 'simplified yacht, financial bookkeeping depiction'; requirements color_preference is 'blue and white'; requirements additional_information is 'Photos of yacht available for inspiration. Other colours will be considered.'"
   },
   {
+    "title": "Anaerobe",
+    "blurb": "Design a logo for Anaerobe, a company that isolates beneficial bacteria for probiotics, which should convey a sense of technological advancement in the health and nutrition industry.",
+    "price": "US$150",
+    "deadline": "11 Nov 2023 11:20:41 UTC",
+    "requirements": {
+      "design_elements": [
+        "technological",
+        "probiotic bacteria",
+        "health and nutrition"
+      ],
+      "color_preference": "No specific request",
+      "additional_information": "The logo should appeal to markets in animal and human health, and reflect attributes of environmental sustainability."
+    },
+    "full_text": "title is 'Anaerobe'; blurb is 'Design a logo for Anaerobe, a company that isolates beneficial bacteria for probiotics, which should convey a sense of technological advancement in the health and nutrition industry.'; price is 'US$150'; deadline is '11 Nov 2023 11:20:41 UTC'; requirements design_elements are 'technological, probiotic bacteria, health and nutrition'; requirements color_preference is 'No specific request'; requirements additional_information is 'The logo should appeal to markets in animal and human health, and reflect attributes of environmental sustainability.'"
+  },
+  {
     "title": "Dr R V Fitness",
     "blurb": "Logo for online gym coach who has a medical background. The logo should attract new customers, be suitable for use on merchandise, and appeal to professionals like doctors and lawyers. The design should include simple typography with the text 'Dr. R V Fitness'.",
     "price": "\u00a3190",

@@ -39,4 +39,25 @@ index = VectorStoreIndex.from_vector_store(store)
 # query your data!
 # here we have customized the number of documents returned per query to 20, because tweets are really short
 query_engine = index.as_query_engine(similarity_top_k=20)
-response = query_engine.query("Logo for financial companies")
+# response = query_engine.query("Logo for financial companies")
+response = query_engine.query("Logo for medical companies")
+
+
+length = len(response.source_nodes)
+if length == 0:
+    print("No response matches the query")
+
+from langchain.llms import OpenAI
+import replicate
+import os
+
+llm = OpenAI(openai_api_key=os.getenv("OPENAI_API_KEY"))
+job = response.source_nodes[0].text
+prompt = llm.invoke("Create a one sentence input to generate a logo for: " + job)
+print(f"prompt is: {prompt}")
+output = replicate.run(
+    "stability-ai/sdxl:2b017d9b67edd2ee1401238df49d75da53c523f36e363881e057f5dc3ed3c5b2",
+    input={"prompt": prompt},
+)
+
+print(f"Done: {output}")
