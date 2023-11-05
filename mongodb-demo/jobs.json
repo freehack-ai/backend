@@ -209,5 +209,95 @@
                 "update_date": "Saturday, 04 November 2023"
             }
         }
+    },
+    {
+        "title": "Quality Connects Logo and Website Design",
+        "blurb": "I’m looking for a logo and website design for a new brand I’m doing called Quality Connects or “QC”. Tagline is “Quality Connects every community across all ages and stages.",
+        "price": "1st place: US$260, Participation payments x 4: US$10, Total: US$300",
+        "deadline": "11 Nov 2023 20:12:33 UTC",
+        "requirements": {
+            "logo_text": "QC",
+            "target_market": [
+                "All communities",
+                "All ages and stages"
+            ],
+            "industry": "Brand and Community",
+            "logo_style": "Logo and Website Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The tagline is 'Quality Connects every community across all ages and stages.'"
+        }
+    },
+    {
+        "title": "Men’s Addiction Treatment Sober Living Home Logo Design",
+        "blurb": "I need a logo including Excalibur (sword in the stone) and a rising sun which shines light on said sword. The sun being partially black represents the alchemical symbol of the black sun, often it is our darkest moments that bring the light.",
+        "price": "Budget: US$150",
+        "deadline": "6 days left",
+        "requirements": {
+            "logo_text": "The Landing Recovery Home",
+            "target_market": [
+                "Men in recovery from addiction"
+            ],
+            "industry": "Addiction Treatment",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Black or extra dark gray and yellowish orange, additional use of black and extra dark gray for contrast if needed.",
+            "additional_information": "The sun represents the dawning light of consciousness shining on the hidden sword, symbolizing divine power accessible through inner orientation. The sword in the stone represents divine power that only the 'rightful king' can draw. This logo is for a Men’s sober living home."
+        }
+    },
+    {
+        "title": "Alluring Logo Design for Hospitality/Creative",
+        "blurb": "I am in need of two separate logo designs. One is for a hospitality group specializing in fun restaurant/bar/boutique hotel concepts. The other logo for an engaging Creative agency that specializes in entertainment, hospitality, and tech. Spa Day would be the red flag, yacht club/country club inspiration. The Uno más logo inspiration has a slight fun minimal vintage classy masculine appearance.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "06 Nov 2023 23:26:32 UTC",
+        "requirements": {
+            "logo_text": [
+                "Spa Day",
+                "Uno Más"
+            ],
+            "target_market": [
+                "Uno Más (fun restaurant hospitality group)",
+                "Spa Day (Creative Agency)"
+            ],
+            "industry": "Hospitality/Creative Agency",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The Spa Day logo should have a red flag, yacht club/country club inspiration. The Uno Más logo should have a fun, minimal, vintage, classy, and masculine appearance."
+        }
+    },
+    {
+        "title": "cleanX Logo Design",
+        "blurb": "Company is starting a new project, cleanX. We want to create a logo that says cleanX by SiTE2GYM. It should use a new logo of cleanX as well as the existing logo in small underneath or on the side of it that says 'by SiTE2GYM logo.'",
+        "price": "1st place: C$150, Total: C$150",
+        "deadline": "10 Nov 2023 21:07:39 UTC",
+        "requirements": {
+            "logo_text": "cleanX",
+            "target_market": [
+                "Project for SiTE2GYM"
+            ],
+            "industry": "New Project",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The logo should incorporate 'cleanX' and 'by SiTE2GYM logo'."
+        }
+    },
+    {
+        "title": "Willy Wilson Flats Logo Design",
+        "blurb": "Need a logo for an urban living site in Madison, WI. The site includes 30 apartments and 6 vibrant retail spaces. The site consists of two large, old, brick buildings and two 10-unit new construction apartment buildings. It is located in the heart of a vibrant neighborhood filled with consistent activity and young, energetic, free-thinking individuals. The neighborhood has a 'funky' vibe to it, and I'd like that to be reflected in the logo. Included in much of the future signage will be 'Professionally Managed by Grindstone Property Management'. The logo for Grindstone Property Management is attached for your reference/review. The addresses of the properties that we will want signage for are 1207 E Wilson St, 1217 E Wilson St, 1216 Williamson St, 1220 Williamson St (all located in Madison, WI). Our website that includes additional photos of all buildings is www.grindstonemanagement.com.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "06 Nov 2023 19:00:03 UTC",
+        "requirements": {
+            "logo_text": "Willy Wilson Flats",
+            "target_market": [
+                "Young, energetic, free-thinking"
+            ],
+            "industry": "Apartment homes & high traffic urban retail",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer to choose",
+            "additional_information": "The logo should reflect the 'funky' vibe of the neighborhood and also include 'Professionally Managed by Grindstone Property Management'."
+        }
     }
 ]
