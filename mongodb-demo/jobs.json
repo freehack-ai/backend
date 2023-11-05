@@ -299,5 +299,397 @@
             "color_preference": "Designer to choose",
             "additional_information": "The logo should reflect the 'funky' vibe of the neighborhood and also include 'Professionally Managed by Grindstone Property Management'."
         }
+    },
+    {
+        "title": "Marketing Agency Looking for a Logo Refresh",
+        "blurb": "We are a full service marketing and advertising firm looking for some fresh and new ideas for our new logo design. We want to update our current logo to something more current, trendsetting, impactful, and iconic.",
+        "price": {
+            "budget": "C$390",
+            "1st_place": "C$260",
+            "participation_payments": [
+                {
+                    "x3": "C$30"
+                },
+                {
+                    "x4": "C$10"
+                }
+            ],
+            "total": "C$390"
+        },
+        "deadline": "08 Nov 2023 17:45:23 UTC",
+        "requirements": {
+            "must_have": [
+                "Simple",
+                "Smart",
+                "Bold",
+                "Editorial",
+                "Trustworthy",
+                "Iconic",
+                "Black and White for id lettermark",
+                "Up to designer for Integrated Marketing",
+                "Both vertical and horizontal versions"
+            ],
+            "nice_to_have": [
+                "Usage of some form of the old logo to maintain brand recognition (i.e., fingerprint becomes dot of the 'i' in id lettermark logo)",
+                "Try using lower case 'id' as letter mark"
+            ],
+            "should_not_have": [
+                "Not italic",
+                "No bright colours",
+                "Not dated or tired",
+                "Boring",
+                "Tired and typical ai generic designs"
+            ]
+        },
+        "logo_details": {
+            "target_markets": [
+                "New home developers",
+                "Not for profit organizations",
+                "Healthcare",
+                "Real estate companies",
+                "Pharma"
+            ],
+            "industry": "Marketing, Advertising, Web + App Development, social + digital media full service agency",
+            "logo_text": "id (lettermark) Integrated Marketing or INTEGRATED MARKETING",
+            "logo_styles_of_interest": [
+                "Wordmark Logo",
+                "Lettermark Logo"
+            ],
+            "font_styles_to_use": [
+                "Serif",
+                "bold serif font"
+            ],
+            "colors": "Designer to choose only greyscale colors for use in the design",
+            "look_and_feel": {
+                "elegant_bold": true,
+                "playful_serious": true,
+                "traditional_modern": true,
+                "personable_professional": true,
+                "feminine_masculine": true,
+                "colorful_conservative": true,
+                "economical_upmarket": true
+            }
+        },
+        "project_upgrades": {
+            "bundled_projects": [
+                {
+                    "business_card_design": "C$39"
+                },
+                {
+                    "stationery_design": "C$49"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Logo for new shipping company",
+        "blurb": "The full name of the company is CentrePoint Bulk Carriers. Most likely the logo will only show CentrePoint. The company is open to suggestions for the logo design which is common in the shipping industry, often incorporating elements like flags.",
+        "price": {
+            "budget": "US$390",
+            "1st_place": "US$260",
+            "participation_payments": [
+                {
+                    "x3": "US$30"
+                },
+                {
+                    "x4": "US$10"
+                }
+            ],
+            "total": "US$390"
+        },
+        "deadline": "08 Nov 2023 18:03:37 UTC",
+        "requirements": {
+            "logo_text": "CentrePoint (open to suggestions though)",
+            "inspiration_links": [
+                "https://www.easternbulk.com/",
+                "https://www.maersk.com/",
+                "https://www.westernbulk.com/who-we-are/"
+            ]
+        },
+        "design_counts": {
+            "number_of_designs": "513 designs",
+            "number_of_designers": "206 designers"
+        },
+        "language": "English"
+    },
+    {
+        "title": "Logo for a consultancy start-up (process optimization, digitalization/IT)",
+        "blurb": "The logo is for a consultancy start-up with a focus on process optimization and digitalization/IT. The company supports transformation projects for big companies, such as banks, by implementing new IT systems and processes.",
+        "price": {
+            "budget": "€310",
+            "1st_place": "€230",
+            "participation_payments": [
+                {
+                    "x8": "€10"
+                }
+            ],
+            "total": "€310"
+        },
+        "deadline": "08 Nov 2023 20:33:45 UTC",
+        "requirements": {
+            "logo_text": "FUTURE MODE",
+            "detailed_requirements_doc": "Requirements Future Mode - Wednesday, November 1, 2023"
+        },
+        "design_counts": {
+            "number_of_designs": "327 designs",
+            "number_of_designers": "111 designers"
+        },
+        "language": "English"
+    },
+    {
+        "title": "Event Rental Company in Los Angeles CA. Logo Re-design",
+        "blurb": "An event rental company in Los Angeles, CA is looking for a logo redesign that is minimalist, memorable, and versatile, incorporating the blue color and potentially the Helvetica Sans Serif font.",
+        "budget": "US$150",
+        "time_remaining": "3 days left",
+        "current_designs": "95 designs",
+        "designers_participating": "56 designers",
+        "design_brief": {
+            "background": "The company provides distinctive event equipment rentals primarily in Los Angeles CA, servicing events such as parties, galas, sporting events.",
+            "target_market": "Event industry professionals, brides, schools, top 20% clientele in Los Angeles.",
+            "requirements": {
+                "must_have": "Logo redefined, may not contain the company name",
+                "nice_to_have": "Logo with a visual image that is easily understood and recognized",
+                "should_not_have": "Crown, balloons, or any image of equipment"
+            },
+            "logo_text": "Del Rey Party Rentals",
+            "logo_styles_of_interest": {
+                "pictorial_combination": "A real-world object (optional text)",
+                "abstract_logo": "Conceptual / symbolic (optional text)"
+            },
+            "look_and_feel": {
+                "elegant": "Elegant",
+                "bold": "Bold",
+                "playful": "Playful",
+                "serious": "Serious",
+                "traditional": "Traditional",
+                "modern": "Modern",
+                "personable": "Personable",
+                "professional": "Professional",
+                "feminine": "Feminine",
+                "masculine": "Masculine",
+                "colorful": "Colorful",
+                "conservative": "Conservative",
+                "economical": "Economical",
+                "upmarket": "Upmarket"
+            }
+        },
+        "files": [
+            {
+                "file_name": "Del Rey Logo (5) (3).png",
+                "date": "Wednesday, November 1, 2023"
+            },
+            {
+                "file_name": "Screenshot 2023-11-01 161843.png",
+                "date": "Wednesday, November 1, 2023"
+            }
+        ],
+        "payments": {
+            "1st_place": "US$150",
+            "total": "US$150"
+        },
+        "project_deadline": "08 Nov 2023 23:54:44 UTC",
+        "language": "English"
+    },
+    {
+        "site": "DesignCrowd",
+        "project_type": "Logo & Colour Palette",
+        "project_title": "Logo & Colour Palette for Video Guestbook Service",
+        "budget": "A$150",
+        "time_remaining": "3 days left",
+        "current_submissions": {
+            "designs": 100,
+            "designers": 61
+        },
+        "brief": {
+            "service_description": "A Video Guestbook service targeting special events like Weddings, Birthdays, Baby Showers, Coming of age celebrations, and Corporate events.",
+            "service_features": "Capturing video messages from guests at events through a recording device.",
+            "design_qualities": {
+                "clean": true,
+                "clever": true,
+                "modern": true,
+                "sophisticated": true,
+                "eye_catching": true,
+                "readable_text": true
+            },
+            "logo_text": "Guest Wishes"
+        },
+        "payment_details": {
+            "1st_place": "A$150",
+            "total": "A$150"
+        },
+        "deadline": "09 Nov 2023 00:55:06 UTC",
+        "language": "English"
+    },
+    {
+        "title": "50 Years Edition Logo Update",
+        "blurb": "Our company is turning 50 years old in 2024. We would like to add a component to our existing logo highlighting '50 years'. Ideally, this would be an addition to the current logo, not a complete redesign, but we're open to some creativity! We would like to have this logo ready for an event on November 20th, so turnaround will be quick!",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 17:38:10 UTC",
+        "requirements": {
+            "logo_text": [
+                "50 Years",
+                "Celebrating 50 years"
+            ],
+            "target_market": [],
+            "industry": "Construction",
+            "logo_style": "Logo Update",
+            "design_characteristics": {
+                "existing_logo": "Addition to the existing logo",
+                "font": "Numbers do not necessarily need to be in the MicrogrammaD font",
+                "color_palette": "Use the company's color palette: Blue (42,97,165), Grey (89,89,89), Orange (255,92,11), Black, White"
+            },
+            "color_preference": "Designer to choose colors to be used in the design",
+            "additional_information": "The updated logo should identify our company's milestone of 50 years without requiring a complete redesign."
+        }
+    },
+    {
+        "title": "City Cabinetmakers Logo Design",
+        "blurb": "Design a classic/classy logo for City Cabinetmakers. The logo can incorporate the letters 'CC' or other design elements.",
+        "price": "1st place: A$150, Total: A$150",
+        "deadline": "10 Nov 2023 17:29:13 UTC",
+        "requirements": {
+            "logo_text": "City Cabinetmakers",
+            "target_market": [],
+            "industry": "Cabinetmaking",
+            "logo_style": "Classic/Classy Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should have a classic and classy design. It can incorporate the letters 'CC' or other suitable design elements."
+        }
+    },
+    {
+        "title": "GIOA Logo Update",
+        "blurb": "Would like to see our current design classed up a bit. It is overly bold and focuses a lot on the eagle itself but the GIOA hasn’t got much character and is just a footnote. Would like to see some different interpretations of how they work together.",
+        "price": "1st place: US$260, Participation payments x 4: US$10, Total: US$300",
+        "deadline": "10 Nov 2023 17:14:45 UTC",
+        "requirements": {
+            "logo_text": "GIOA",
+            "target_market": [],
+            "industry": "Not specified",
+            "logo_style": "Logo Update",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The goal is to class up the current design and provide more character to 'GIOA' to make it a more prominent part of the logo."
+        }
+    },
+    {
+        "title": "My Restoration Coach Logo Design",
+        "blurb": "I am a 35-year retired General Contractor who specialized in property restoration services for commercial property owners. I am an expert who will now teach and train other contractors to build, market, and service their own portfolios. I teach them to provide 'cost-effective building solutions,' which attracts large asset owners. Examples of some of the 17,000+ properties I manage in the United States are Fortune 500, Flagship Hotel Groups, Property Management Companies, Real Estate Investment Trusts, Private Equity Groups, Condo Associations, etc... So who are you gonna call when you need help? My Restoration Coach. Check out the website for my consulting company: Commercial Restoration Network - www.crnpros.com. My Restoration Coach will be dba (Doing Business As) under this entity.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 07:29:59 UTC",
+        "requirements": {
+            "logo_text": "My Restoration Coach",
+            "target_market": [
+                "Contractors in property restoration services, commercial property owners, large asset owners"
+            ],
+            "industry": "Property Restoration and Consulting",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should reflect expertise, training, and the ability to attract large asset owners in the property restoration field."
+        }
+    },
+    {
+        "title": "Bubbles by Michel's Logo Design",
+        "blurb": "I am starting a new brand called 'Bubbles by Michel's'. It is going to be part of our Michel's Dry Cleaners brand. Bubbles by Michel's is going to be a self-service laundromat. Make the Bubbles by Michel's logo fun, and research how other self-service laundromats are branding.",
+        "price": "1st place: A$150, Total: A$150",
+        "deadline": "10 Nov 2023 06:23:28 UTC",
+        "requirements": {
+            "logo_text": "Bubbles by Michel's",
+            "target_market": [],
+            "industry": "Laundromat",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Customer's choice: #0054AA, #0677BA, #7BADD7, #CADEEF, #E8F1F8",
+            "additional_information": "The logo should be fun and in line with branding for self-service laundromats."
+        }
+    },
+    {
+        "title": "Scottsdale Slingshots Logo Design",
+        "blurb": "Capture the essence of the thrilling Polaris Slingshot experience against the backdrop of Scottsdale's stunning desert landscape. Use a sunset, saguaro cactus, Camelback Mountain, and the State of Arizona background with the Slingshot in front. Create a 3-dimensional style look to convey adventure and freedom.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 04:01:38 UTC",
+        "requirements": {
+            "logo_text": "Scottsdale Slingshots",
+            "target_market": [
+                "Tourist"
+            ],
+            "logo_style": "Logo Design",
+            "design_characteristics": {
+                "color_palette": "Inspired by the desert with warm earthy tones, sandy beige, deep terracotta, and vibrant red",
+                "icon": "Sleek and stylized Polaris Slingshot in motion against a desert backdrop",
+                "desert_landscape_background": "Including saguaro cacti, Camelback Mountain, sunset or sunrise",
+                "text": "Modern and bold typeface",
+                "subtle_details": "Play of light and shadows for depth and dimension"
+            },
+            "color_preference": "Designer's choice",
+            "font_styles": "Western/Southwest/Desert Style Font",
+            "additional_information": "The logo should represent the thrill of the Slingshot ride and the unique beauty of the Arizona desert, targeting adventure seekers and tourists."
+        }
+    },
+    {
+        "title": "Astro Sisters Podcast Logo Design",
+        "blurb": "Logo design for Astro Sisters, a podcast by two women about astrology.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 00:22:00 UTC",
+        "requirements": {
+            "logo_text": "Astro Sisters",
+            "target_market": [],
+            "industry": "Podcast",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should represent the essence of the Astro Sisters podcast, which is about astrology and hosted by two women."
+        }
+    },
+    {
+        "title": "EngiFi Logo Design",
+        "blurb": "Logo for a high-level tech talent acquisition company named EngiFi, which specializes in locating and matching engineers with the right employers using machine learning. The design should communicate trustworthiness, specialization, engineering, and advanced technology. The use of the color blue is preferred.",
+        "price": "1st place: €110, Total: €110",
+        "deadline": "05 Nov 2023 22:40:03 UTC",
+        "requirements": {
+            "logo_text": "EngiFi",
+            "target_market": [
+                "Companies hiring engineers",
+                "Engineers"
+            ],
+            "industry": "Talent Acquisition",
+            "logo_style": "Pictorial/Combination Logo, Wordmark Logo",
+            "design_characteristics": {},
+            "color_preference": "Preference for the color blue",
+            "additional_information": "The logo should convey trustworthiness, specialization, and the use of advanced technology in talent acquisition for engineers."
+        }
+    },
+    {
+        "title": "Meadow Land Distillery Logo Design",
+        "blurb": "Need a corporate logo that reflects a new Whiskey Distillery Brand located in Eminence, Kentucky, USA. Kentucky means 'on the meadow' in Iroquoian, a Native American tribe. Meadow is also the name of my co-founder's infant daughter, who has overcome major health challenges and is now thriving. Potential inclusions could be that of a Buck (deer), a meadow, or an outdoor theme. Open to various design ideas.",
+        "price": "1st place: US$260, Participation payments x 3: US$30, Participation payments x 4: US$10, Total: US$390",
+        "deadline": "09 Nov 2023 22:23:10 UTC",
+        "requirements": {
+            "logo_text": "Meadow Land Distillery Eminence KY",
+            "target_market": [],
+            "industry": "Whiskey Distillery",
+            "logo_style": "Logo Design",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should capture the essence of the brand, reflecting Kentucky's 'on the meadow' meaning and paying homage to the co-founder's daughter. It can include elements like a Buck, meadow, or an outdoor theme."
+        }
+    },
+    {
+        "title": "Beards & Whiskey Hard Rock Band Logo Design",
+        "blurb": "The hard rock band Beards & Whiskey is looking for a main brand logo/icon/wordmark that can be incorporated into all merchandise and album art. This needs to be a unique logo symbol that can stand alone without the name, and also be combined with the band name. The goal is to obtain a versatile logo that can be used in many different ways, with or without the name, and still be identifiable. Inspiration from band logos like Foo Fighters, Red Hot Chili Peppers, Soundgarden, and Nirvana is welcomed.",
+        "price": "1st place: US$150, Total: US$150",
+        "deadline": "10 Nov 2023 11:59:46 UTC",
+        "requirements": {
+            "logo_text": "Beards & Whiskey",
+            "target_market": [
+                "Hard Rock, Alternative Rock, Grunge, 90's/2000's Metal Fans"
+            ],
+            "industry": "Music, Rock Band",
+            "logo_style": "Emblem Logo, Pictorial/Combination Logo",
+            "design_characteristics": {},
+            "color_preference": "Designer's choice",
+            "additional_information": "The logo should exude the attitude and style of a heavy hard rock band, inspired by bands like Motorhead, Soundgarden, Misfits, and Social Distortion. It should be highly identifiable and work well with or without the band name."
+        }
     }
 ]
